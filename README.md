@@ -89,7 +89,7 @@ The Following is a Snapshot/Screenshot of the streamlit Application.
 
 . The streamlit Application Simulates a Blockchain- Based Ledger system that allows users to conduct financial transsactions like tranfers of funds from sender to receiver, and to verify the integrity of the data.
 
-1. Use of Application: the user is prompted to eneter a sender Address, the Receiver Address and the amount of crypto send.
+1. Use of Application: the user is prompted to enter a sender Address, the Receiver Address and the amount of crypto send.
 2. Ledger: the ledger than Tracks and stores the transactions in which the user is able to inspect each Block transaction with the use of a "BLOCK iNSPECTOR" option located on the Left Drop-down menu of the Application.
 3. Evaluate Ledger: the user can then click on the option "VALIDATE CHAIN" to compare the Hash of the previous block of the previous Hash of the current block.
 
